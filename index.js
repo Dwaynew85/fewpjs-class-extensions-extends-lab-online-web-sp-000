@@ -2,7 +2,7 @@
 class Polygon {
   constructor(array) {}
 
-  get countSides() {
+  get countSides {
     return this.length
   }
 }
